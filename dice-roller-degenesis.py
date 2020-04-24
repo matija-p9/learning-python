@@ -5,7 +5,7 @@ print("DEGENESIS DICE ROLLER BY MATIJA")
 print("-------------------------------")
 print("       ENTER 'Q' TO QUIT")
 print(" -----------------------------")
-print(" ENTER NUMBER OF DIES TO ROLL:")
+print(" ENTER AMOUNT OF DICE TO ROLL:")
 
 counter = 0
 while True:
