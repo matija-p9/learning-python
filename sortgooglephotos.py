@@ -1,7 +1,7 @@
 import os
 
 for folder_name in os.listdir():
-    if folder_name != "sort-google-photos.py":
+    if folder_name != "sortgooglephotos.py":
         for file_name in os.listdir(folder_name):
             folder__name = folder_name + '/'
             ofile__name = folder__name + file_name
