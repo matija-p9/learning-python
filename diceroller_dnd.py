@@ -39,6 +39,7 @@ def analyze_input(rollInput):
     return result
 
 import random
+
 print("  -------------------------")
 print("  D&D DICE ROLLER BY MATIJA")
 print("  -------------------------")
