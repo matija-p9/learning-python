@@ -10,7 +10,13 @@ def explode_die():
 
 import itertools
 import random
-print("SIMPLE DICE ROLLER BY MATIJA\n----------------\nTYPE 'Q' TO QUIT\n----------------\nINPUT DIE QUANTITY:\n")
+
+print("  -------------------------")
+print("  WOD DICE ROLLER BY MATIJA")
+print("  -------------------------")
+print("      ENTER 'Q' TO QUIT")
+print("-----------------------------")
+print("ENTER AMOUNT OF DICE TO ROLL:")
 
 counter = 0
 while True:

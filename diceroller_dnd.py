@@ -39,7 +39,12 @@ def analyze_input(rollInput):
     return result
 
 import random
-print("SIMPLE DICE ROLLER BY MATIJA\n----------------\nTYPE 'Q' TO QUIT\n----------------\nINPUT DIE ROLL (EXAMPLE: 2d6+4):\n")
+print("  -------------------------")
+print("  D&D DICE ROLLER BY MATIJA")
+print("  -------------------------")
+print("      ENTER 'Q' TO QUIT")
+print("-----------------------------")
+print("ENTER AMOUNT OF DICE TO ROLL:")
 
 counter = 0
 while True:
